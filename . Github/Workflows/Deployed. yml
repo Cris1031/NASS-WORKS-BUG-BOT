@@ -1,0 +1,3 @@
+sudo apt -y update && sudo apt -y upgradesudo apt -y install git ffmpeg curlcurl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.shsudo -E bash nodesource_setup.shsudo apt-get install -y nodejssudo npm install -g yarnsudo yarn global add pm2cd Venom-2
+yarn install 
+npm start
